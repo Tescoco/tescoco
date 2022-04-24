@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Teslim Akinremi</h1>
+<!-- <h1 align="center">Hi 👋, I'm Teslim Akinremi</h1>
 <h3 align="center">A passionate full stack engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tescoco&label=Profile%20views&color=0e75b6&style=flat" alt="tescoco" /> </p>
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tescoco&show_icons=true&locale=en" alt="tescoco" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tescoco&" alt="tescoco" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tescoco&" alt="tescoco" /></p> -->
