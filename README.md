@@ -1,5 +1,3 @@
-Hi there 👋🏾👋🏽.
+senior fullstack software engineer.
 
-I'm a fullstack + blockchain software engineer.
 
-Thanks for checking out my profile.
